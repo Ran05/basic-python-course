@@ -109,13 +109,15 @@ print(x + y)'''
 
 #inputting and outputting variables the function input 
 
-
+'''
 name = input("Enter Full Name: ")
 email = input("Enter Email: ")
 
 
 print("Name:" + name)
 print("Email:" + email)
+'''
+
 
 
 
