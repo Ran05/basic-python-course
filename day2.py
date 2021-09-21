@@ -158,7 +158,7 @@ print(sampleText5)
 
 
 #
-
+'''
 output = f"""
         =======
         Name   Age
@@ -167,6 +167,8 @@ output = f"""
 """
 
 print(output.format())
+'''
+
 
 
 
