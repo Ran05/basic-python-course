@@ -1,5 +1,7 @@
 
 
+#Day 2 activity #2
+
 first_noun = input("Enter the first noun: ")
 second_noun = input("Enter the second noun: ")
 third_noun = input("Enter the third noun: ")
